@@ -1,0 +1,65 @@
+.table {
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 50;
+}
+
+.table2 {
+    width: 175px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 50;
+}
+
+.title {
+    width: 340px;
+    padding: 10px;
+    margin: auto;
+}
+
+.title2 {
+    width: 390px;
+    padding: 10px;
+    margin: auto;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.margin60 {
+    margin-left: 60;
+}
+
+.margin52 {
+    margin-left: 52;
+}
+
+.user {
+    float: right;
+    font-size: 18px;
+    margin-top: -1px;
+    margin-right: 23;
+}
+
+.super {
+    float: left;
+    margin-right: 12;
+}
+
+.buy {
+    font-size: 18px;
+}
+
+.error {
+    color: #ff0000;
+}
+
+.green {
+    color: green;
+}
